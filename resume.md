@@ -13,7 +13,7 @@ Creative and results-driven Software Developer with 4+ years of experience build
 ## SKILLS  
 
 **Languages & Frameworks**  
-TypeScript · Python · Solidity · Sveltekit · Next.js · SQL  
+TypeScript · Solidity · Python · Sveltekit · Next.js · SQL  
 
 **DevOps & Tools**  
 AWS · Git · Docker · CI/CD  
