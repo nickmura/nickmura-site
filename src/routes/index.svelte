@@ -21,6 +21,19 @@
 </section>
 <section class="w-screen p-12 flex flex-col gap-4 items-center">
 	<a
+		href="https://defi-terminal.xyz"
+		target="_blank"
+		class="h-max w-full md:max-w-[80%] border border-[rgba(255,255,255,0.125)] rounded-xl flex gap-4 p-4 items-center justify-start"
+	>
+	<div class='w-20 pt-1 pb-2 border border-gray-600 border-1 rounded-xl'>
+		<div class='text-5xl p-2'>>_</div>
+	</div>
+		<div class="w-full flex flex-col p-4">
+			<h2 class="text-2xl font-bold">defi-terminal</h2>
+			<h3 class="text-xl text-gray-500">Command line interface for DeFi operations</h3>
+		</div>
+	</a>
+	<a
 		href="https://stream.gift"
 		target="_blank"
 		class="h-max w-full md:max-w-[80%] border border-[rgba(255,255,255,0.125)] rounded-xl flex gap-4 p-4 items-center justify-start"
