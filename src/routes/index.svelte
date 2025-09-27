@@ -20,18 +20,7 @@
 	</a>
 </section>
 <section class="w-screen p-12 flex flex-col gap-4 items-center">
-	<a
-		href="https://wonway.xyz"
-		target="_blank"
-		class="h-max w-full md:max-w-[80%] border border-[rgba(255,255,255,0.125)] rounded-xl flex gap-4 p-4 items-center justify-start"
-	>
-		<img src='./w.png' class='w-20 pt-3 rounded-xl' alt=''>
 
-		<div class="w-full flex flex-col p-4">
-			<h2 class="text-2xl font-bold">Wonway</h2>
-			<h3 class="text-xl text-gray-500">stablecoin payment gateway for Shopify/WooCommerce, and direct invoicing API </h3>
-		</div>
-	</a>
 	<a
 		href="https://defi-terminal.xyz"
 		target="_blank"
