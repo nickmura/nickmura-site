@@ -23,7 +23,18 @@
 
 <section class="w-screen px-6 py-12 flex justify-center">
 	<div class="w-full max-w-4xl flex flex-col gap-4">
+		<a
+			href="https://stablegate.xyz"
+			target="_blank"
+			class="card h-max w-full rounded-2xl flex gap-4 p-4 items-center justify-start border transition hover:border-white/30 hover:-translate-y-1 duration-200"
+		>
+			<p class="text-5xl w-20 text-center font-secondary">r</p>
 
+			<div class="w-full flex flex-col p-4">
+				<h2 class="text-2xl font-secondary">stablegate.xyz</h2>
+				<h3 class="text-lg card-subtitle">Stablecoin consulting & solutions for payment rails + infra</h3>
+			</div>
+		</a>
 		<a
 			href="https://dappterminal.com"
 			target="_blank"

@@ -13,14 +13,6 @@
 	--border-soft: rgba(255, 255, 255, 0.15);
 }
 
-:root[data-theme='light'] {
-	--bg-base: #f7f5ef;
-	--bg-card: #ffffff;
-	--text-primary: #1e1c19;
-	--text-muted: #6f6a62;
-	--border-soft: rgba(0, 0, 0, 0.12);
-}
-
 html,
 body {
 	font-family: 'Libre Baskerville', 'Times New Roman', serif;
@@ -49,25 +41,4 @@ section {
 
 .card-subtitle {
 	color: var(--text-muted);
-}
-
-.theme-toggle {
-	border: 1px solid var(--border-soft);
-	background-color: var(--bg-card);
-	color: var(--text-primary);
-	border-radius: 9999px;
-	padding: 0.4rem 1rem;
-	font-size: 0.85rem;
-	text-transform: uppercase;
-	letter-spacing: 0.2em;
-	transition: border-color 150ms ease, transform 150ms ease;
-}
-
-.theme-toggle:hover {
-	border-color: rgba(255, 255, 255, 0.4);
-	transform: translateY(-1px);
-}
-
-:root[data-theme='light'] .theme-toggle:hover {
-	border-color: rgba(0, 0, 0, 0.35);
 }
