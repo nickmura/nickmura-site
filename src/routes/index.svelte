@@ -23,6 +23,7 @@
 
 <section class="w-screen px-6 py-12 flex justify-center">
 	<div class="w-full max-w-4xl flex flex-col gap-4">
+
 		<a
 			href="https://dappterminal.com"
 			target="_blank"
