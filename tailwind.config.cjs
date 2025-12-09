@@ -4,8 +4,8 @@ const config = {
   theme: {
     extend: {
       fontFamily: {
-        primary: ['Chelsea Market', 'cursive'],
-        secondary: ['Readex Pro', 'sans-serif']
+        primary: ['Libre Baskerville', 'serif'],
+        secondary: ['Playfair Display', 'serif']
       }
     }
   },
